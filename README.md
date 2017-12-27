@@ -1,4 +1,4 @@
-# gonet
+# util
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/landonia/util)](https://goreportcard.com/report/github.com/landonia/util)
 [![GoDoc](https://godoc.org/github.com/landonia/util?status.svg)](https://godoc.org/github.com/landonia/util)
